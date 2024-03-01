@@ -2,7 +2,7 @@
 
 ## University of Thessaly - Department of Computer Science
 
-This repository features laboratory exercises for the Digital Logic Design course (ΕΥ121), conducted by the Department of Computer Science at the University of Thessaly for the Winter Semester of 2015-16. The exercises are crafted to impart practical knowledge of digital electronics, covering a broad spectrum of topics from basic logic gates to complex sequential circuit design and analysis through simulation.
+This repository features laboratory exercises for the Digital Logic Design course (ΕΥ121), conducted by the Department of Computer Science at the University of Thessaly. The exercises are crafted to impart practical knowledge of digital electronics, covering a broad spectrum of topics from basic logic gates to complex sequential circuit design and analysis through simulation.
 
 ### Course Overview
 
