@@ -45,3 +45,6 @@ To access these lab exercises. Ensure you have Multisim or a similar circuit sim
 ## Author
 Paschalis Moschogiannis (Contact: pmoschogiannis@uth.gr)
 
+## License
+
+This project is licensed under the [GNU General Public License Version 3 (GPLv3)](LICENSE).
