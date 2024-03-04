@@ -49,7 +49,7 @@ Paschalis Moschogiannis (Contact: pmoschogiannis@uth.gr)
 
 This project is licensed under the
 
-⚖ [The GNU General Public License](https://www.gnu.org/licenses/)
+⚖ [GNU General Public License Version 3 (GPLv3)](LICENSE)
 
 </br>
 
