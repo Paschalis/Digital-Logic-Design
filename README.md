@@ -47,4 +47,11 @@ Paschalis Moschogiannis (Contact: pmoschogiannis@uth.gr)
 
 ## License
 
-This project is licensed under the [GNU General Public License Version 3 (GPLv3)](LICENSE).
+This project is licensed under the
+
+⚖ [The GNU General Public License](https://www.gnu.org/licenses/)
+
+</br>
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
